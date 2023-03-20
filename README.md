@@ -7,7 +7,7 @@
   - SQL
 
 # Steps and analysis
-SQL queries were analysed from their results, which led to more queries and analysis as described bellow.
+SQL queries were made and analysed as described bellow.
  - 'Good clients' might have certain features:
  1. Good frequency: more than the 193 average number of transactions/client (1976 clients);
  2. Good loan status: A (contract finished, no problems) and C (running contract, OK so far) (606 clients);
